@@ -2,6 +2,7 @@
 ###### tags: `大二下` `系統程式`
 There are two passes of my C program.
 
+完整版詳見hackmd
 [Hackmd_link](https://hackmd.io/knHmVIC6S_OyV-Rqa4x3Yw?both)
 
 ---
